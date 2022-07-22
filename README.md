@@ -16,3 +16,5 @@ We’re going to make a Magic 8 Ball app. You can ask the app to make all your h
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+Changes By Andrew Peterson
+I downloaded the initial files from the App Brewery git repository then I created a UI and made the 8-Ball image change when the "answer" button was selected.  The app generates a random image from the ballArray. 
